@@ -1,5 +1,5 @@
 # DNM
-## Definetly Not Malware - a Malware Sample
+## Definetly Not Malware - a Ransomware Sample
 *Test Project*
 
 Just having fun and learning basic encryption and ransomware attacks.
