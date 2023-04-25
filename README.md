@@ -1,6 +1,6 @@
 # DNM
 ## Definetly Not Malware - a Malware Sample
-** Test Project **
+*Test Project*
 
 Just having fun and learning basic encryption and ransomware attacks.
 Runs through important directories such as Desktop, Downloads, Videos, Pictures, and Documents and encrypts all the file data using RSA encryption. 
